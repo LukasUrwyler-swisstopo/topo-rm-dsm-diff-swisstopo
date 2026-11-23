@@ -7,6 +7,10 @@
 >
 > Das Repository ist privat. Zugriff haben Mitglieder der swisstopo GitHub-Organisation.
 
+
+<img width="1110" height="1127" alt="image" src="https://github.com/user-attachments/assets/a433e020-8ff2-47b2-a99e-2d4d4dc4805f" />
+
+
 ## Worum es geht
 
 Desktop-Tool mit grafischer Oberfläche, das aus zwei digitalen Oberflächenmodellen ein **Differenzmodell** rechnet: **DSM aktuell minus DSM alt**. Das Ergebnis ist ein Cloud Optimized GeoTIFF, das auf Wunsch direkt als Asset ins bestehende STAC-Item der Befliegung publiziert wird (Collection `ch.swisstopo.spezialbefliegungen`).
