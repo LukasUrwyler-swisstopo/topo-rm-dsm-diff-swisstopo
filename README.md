@@ -1,7 +1,7 @@
 # DSM-DIFF
 
 > [!NOTE]
-> Dieses Repository ist ein Wegweiser. Der Quellcode wird in der swisstopo-Organisation weiterentwickelt:
+> Dieses Repository ist ein Wegweiser. Der Quellcode wird in der swisstopo-Organisation weiterentwickelt;
 >
 > **https://github.com/swisstopo/topo-rm-dsm-diff**
 >
